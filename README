@@ -1,0 +1,14 @@
+Cucumber test report
+
+All the below features tests runs without error
+
+Three features automated are 
+1.	Form Authentication: 
+2.	Dynamic Loading
+3.	JavaScript Alerts
+
+my test bed configuration details:
+
+IDE Eclipse  : Version: 2021-03 (4.19.0)
+Java version : 11.0.11
+cucumber version : 1.0.0
