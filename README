@@ -12,3 +12,11 @@ my test bed configuration details:
 IDE Eclipse  : Version: 2021-03 (4.19.0)
 Java version : 11.0.11
 cucumber version : 1.0.0
+
+project locations details
+
+All the feature files are under folder
+src/test/resources/Features
+
+All functions definition are under StepDefinitions  folder
+src/test/java/StepDefinitions
